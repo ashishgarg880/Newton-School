@@ -81,15 +81,6 @@ body{
 	background-position: center;
 }
 
-.banner h1{
-    top:50%;
-}
-
-.banner p{
-	top: 50%;
-	left: 50%;
-}
-
 .banner2{
     position:relative;
     width:100%;

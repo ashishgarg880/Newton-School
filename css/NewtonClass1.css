@@ -1,0 +1,45 @@
+marquee
+{
+  color: white;
+  background: black;
+}
+
+h3 {
+  margin: 0px;
+}
+
+#chess {
+  background-color: grey;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  cursor:pointer;
+}
+
+.black {
+  background-color: black;
+  height: 25px;
+  width: 25px;
+  float: left;
+
+}
+
+.white {
+  float: left;
+  background-color: white;
+  height: 25px;
+  width: 25px;
+}
+
+.troop {
+  background-color: yellow !important;
+}
+
+.knight
+{
+  background-color:red !important;
+}
+
+.click{
+	background-color:red;
+}
