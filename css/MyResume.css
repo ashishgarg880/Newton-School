@@ -38,6 +38,8 @@ body{
 	align-items: center;
 	padding-bottom:20px;
 	border-bottom:1px solid rgba(255,255,255,.5);
+	background-color:red;
+	color:#fff;
 }
 
 .profile-content .img{
